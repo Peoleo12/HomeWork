@@ -1,0 +1,4 @@
+Andy:20000
+Alex:21000
+Leonid:19000
+Dmitriy:23000
